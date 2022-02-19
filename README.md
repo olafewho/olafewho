@@ -25,14 +25,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-%231572B6.svg?style=for-the-badge&logo=pug&logoColor=brown)
   
-## 💻 FrameWorks:
-
-  ### Css:
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  
-  ### Js:
-  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
 ## ⚙️ Programming Tools:
 
   [<img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>](https://github.com)
